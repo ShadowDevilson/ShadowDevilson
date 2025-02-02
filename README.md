@@ -9,7 +9,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ruins&pause=1000&color=F70909&width=435&lines=Hello!;My+Name+is+Shivam+Chakraborty+%2C;AKA+Shadow+Devilson;Nice+to+meet+you.+LETS+CODE!!!!" alt="Typing SVG" /></a>
 
-<details>
+
   <summary><h2>🛠️ Languages and Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <div align="left">
@@ -39,5 +39,5 @@
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </div>
 </p>
-</details>
+
 
