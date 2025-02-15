@@ -9,7 +9,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ruins&pause=1000&color=F70909&width=435&lines=Hello!;My+Name+is+Shivam+Chakraborty+%2C;AKA+Shadow+Devilson;Nice+to+meet+you.+LETS+CODE!!!!" alt="Typing SVG" /></a>
 
-
   <summary><h2>🛠️ Languages and Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <div align="left">
@@ -20,6 +19,8 @@
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 ### 🧰 Frameworks and Tools
   <!-- Tools and Frameworks -->
